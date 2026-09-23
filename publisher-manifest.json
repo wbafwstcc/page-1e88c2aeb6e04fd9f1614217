@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c491666fc653ead95dbcc480",
+  "owner": "wbafwstcc",
+  "repo": "page-1e88c2aeb6e04fd9f1614217",
+  "title": "PaoPao加速器(PaoPao)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1e88c2aeb6e04fd9f1614217",
+      "a": "PaoPao加速器(PaoPao)",
+      "b": "机场官网线路发布页",
+      "entity": "PaoPao加速器(PaoPao)",
+      "brand": "PaoPao加速器(PaoPao)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "06ee410d4ccdae8910c969f19fd99a663268add1a4e12146913ef368bcd0dfed",
+      "content": {
+        "primary_entity": "PaoPao加速器(PaoPao)",
+        "keyword1": "PaoPao加速器(PaoPao)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，PaoPao加速器面向跨区访问、流媒体与游戏加速场景，提供基础版、旗舰版和团队版三档订阅。基础版每月15元享100GB流量与3台设备；旗舰版每月35元，含300GB流量、5台设备及IPLC专线；团队版每月85元，覆盖1000GB流量与20台设备。年付方案分别为150元、350元和850元，适合按周期灵活选择。",
+          "AI_HERO_SUBTITLE": "PaoPao加速器多设备订阅方案",
+          "AI_HERO_INTRO": "PaoPao加速器提供基础版、旗舰版和团队版三档订阅，流量从每月100GB到1000GB，设备数从3台到20台。旗舰版配有IPLC专线并优化游戏加速，团队版支持企业定制路由，可按月付费或选择年付方案。",
+          "AI_VISUAL_TITLE": "PaoPao加速器订阅选择",
+          "AI_HIGHLIGHT_1": "基础版3台设备100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线与流媒体解锁",
+          "AI_HIGHLIGHT_3": "团队版20台设备企业路由",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURES_INTRO": "根据设备数量、流量需求和预算快速匹配合适版本。",
+          "AI_FEATURE_TITLE_1": "按设备数量选版本",
+          "AI_FEATURE_TEXT_1": "单人用基础版3台设备；多设备家庭可选旗舰版5台；20台规模选团队版。",
+          "AI_FEATURE_TITLE_2": "按流量需求定档位",
+          "AI_FEATURE_TEXT_2": "每月100GB适合轻度浏览，300GB覆盖流媒体与游戏，1000GB适合多终端共享。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活切换",
+          "AI_FEATURE_TEXT_3": "三档均支持月付或年付，年付价格分别为150元、350元和850元，按长时间使用更划算。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "先确认设备系统，再对照客户端文档配置订阅，Windows、macOS、Android 和 iOS 可参考对应教程。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版15元/月含100GB与3台设备；旗舰版35元/月含300GB、5台设备及IPLC专线；团队版85元/月含1000GB与20台设备。年付分别150元、350元、850元。",
+          "AI_GUIDE_TITLE": "三步完成订阅",
+          "AI_GUIDE_INTRO": "确认需求后购买套餐，再按设备类型导入订阅即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，从基础版、旗舰版或团队版中选定版本。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用系统与设备数量是否在套餐支持范围内，避免超限无法连接。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅地址，保存后开启连接即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "PaoPao加速器支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "Windows、macOS、Android 和 iOS 均有对应客户端，按设备类型选择教程配置订阅即可，具体兼容情况以客户端文档为准。",
+          "AI_FAQ_QUESTION_2": "基础版和旗舰版区别在哪？",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB流量、3台设备，解锁基础流媒体；旗舰版每月300GB、5台设备，含IPLC专线和全节点原生流媒体解锁。",
+          "AI_FAQ_QUESTION_3": "订阅可以多设备同时使用吗？",
+          "AI_FAQ_ANSWER_3": "基础版支持3台，旗舰版支持5台，团队版支持20台设备同时在线，超出数量会导致连接受限，请按套餐规定使用。",
+          "AI_FAQ_QUESTION_4": "月付和年付价格怎么算？",
+          "AI_FAQ_ANSWER_4": "基础版月付15元、年付150元；旗舰版月付35元、年付350元；团队版月付85元、年付850元。年付相当于整体更省。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月1000GB流量、20台设备、VIP高带宽节点和企业定制路由，适合多人协作或需要专属客户经理服务的团队。",
+          "AI_CLOSING_TITLE": "选好版本即可订阅",
+          "AI_CLOSING_TEXT": "按设备数量和流量需求选定套餐，参照客户端文档完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shilongrc.cn",
+    "host": "shilongrc.cn"
+  },
+  "file_hashes": {
+    "index.html": "f014aee619fd1aec8df85a17d2e087fd28c91c44963e9a1c1b8e232cd570f6df",
+    "sitemap.xml": "1b560f9afd615273a23e90e500e5be7c0df67ccd42019d45bb8c4f028fe32493",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1e88fe056a4e6a0ea6cb4d0485d812c5f15b4caba48d131cfb9ea04c39bbf53e",
+    "robots.txt": "e9591593919ef72dabcd13c610d9d7e85a90245667e2468a239738f758d951c5",
+    "8b1356459eba23991563c748e70ab718.txt": "79388941edc5cef4b2c20e02bdbec833723146baf7eb8dfb886b676d9649163f"
+  },
+  "revision": "271cf35711ee13c414a673f7f530ac0fb8d946d28aa4df844b0d9483247ce876"
+}
